@@ -2,10 +2,13 @@
 
 /HandReader_DFU_update/Libraries/*
 /HandReader_DFU_update/Utilities/*
-/HandReader_DFU_update/Project/readme.txt
-/HandReader_DFU_update/Project/EWARM/STM3210E-EVAL/*
-/HandReader_DFU_update/Project/EWARM/settings/*
-/HandReader_DFU_update/Project/EWARM/HandReader_DFU_update.dep
+/HandReader_DFU_update/Projects/readme.txt
+/HandReader_DFU_update/Projects/EWARM/STM3210E-EVAL/*
+/HandReader_DFU_update/Projects/EWARM/settings/*
+/HandReader_DFU_update/Projects/EWARM/HandReader_DFU_update.dep
+/HandReader_DFU_update/Projects/EWARM/stm32f30x_flash.icf
+/HandReader_DFU_update/Projects/EWARM/stm32l1xx_flash.icf
+/HandReader_DFU_update/Projects/EWARM/stm32f37x_flash.icf
 
 /HandReader_maincode/Debug/*
 /HandReader_maincode/settings/*
