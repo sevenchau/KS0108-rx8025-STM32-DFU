@@ -1,0 +1,17 @@
+!.gitignore
+
+/HandReader_DFU_update/Libraries/*
+/HandReader_DFU_update/Utilities/*
+/HandReader_DFU_update/Project/readme.txt
+/HandReader_DFU_update/Project/EWARM/STM3210E-EVAL/*
+/HandReader_DFU_update/Project/EWARM/settings/*
+/HandReader_DFU_update/Project/EWARM/HandReader_DFU_update.dep
+
+/HandReader_maincode/Debug/*
+/HandReader_maincode/settings/*
+/HandReader_maincode/st_ucosii/*
+/HandReader_maincode/stm32lib/*
+/HandReader_maincode/HandReader.dep
+/HandReader_maincode/readme.txt
+
+
